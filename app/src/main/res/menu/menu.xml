@@ -12,4 +12,10 @@
         android:orderInCategory="200"
         android:title="dusra"
         app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_three"
+        android:orderInCategory="200"
+        android:title="upcoming features"
+        app:showAsAction="never" />
 </menu>
