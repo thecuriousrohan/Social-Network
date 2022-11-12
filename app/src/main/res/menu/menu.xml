@@ -4,13 +4,13 @@
     <item
         android:id="@+id/menu_one"
         android:orderInCategory="100"
-        android:title="pehla"
+        android:title="Submit Memes"
         app:showAsAction="never" />
 
     <item
         android:id="@+id/menu_two"
         android:orderInCategory="200"
-        android:title="dusra"
+        android:title="Share App"
         app:showAsAction="never" />
 
     <item
